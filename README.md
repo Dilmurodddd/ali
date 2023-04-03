@@ -1,0 +1,2 @@
+#ali
+print( Salom )
