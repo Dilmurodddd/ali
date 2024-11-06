@@ -1,2 +1,5 @@
-#ali
-print( Salom )
+Assalomu alaykum hammaga
+
+
+
+bu codda xatoliklar mavjud 
