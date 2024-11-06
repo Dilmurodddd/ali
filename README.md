@@ -2,4 +2,4 @@ Assalomu alaykum hammaga
 
 
 
-bu codda xatoliklar mavjud 
+bu codlarda xatoliklar mavjud 
